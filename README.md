@@ -19,8 +19,8 @@ I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to mak
 
 
 - 🔭 I’m currently pursuing my Degree.
-- 📫 I'm currently learning Angular.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 I'm currently learning Angular.
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 😄 Pronouns: He/His/Himself.
 - ⚡ Fun fact: I play games and go to the GYM very often.

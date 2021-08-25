@@ -28,8 +28,8 @@ I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to mak
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff&style=flat-square)
+![Apple](https://img.shields.io/badge/Apple-black?style=flat-square&logo=apple&logoColor=white&style=flat-square)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff&style=flat-square)
-![C++](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=ffffff&style=flat-square)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&style=flat-square)

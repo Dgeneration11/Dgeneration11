@@ -25,6 +25,9 @@ I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to mak
 - 😄 Pronouns: He/His/Himself.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
+
+---
+
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff&style=flat-square)
@@ -64,5 +67,4 @@ I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to mak
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff&style=flat-square)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff&style=flat-square)
 
-
-
+---

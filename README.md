@@ -51,7 +51,6 @@ I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to mak
 ![Chakra-UI](https://img.shields.io/badge/-Chakra%E2%80%93UI-319795?style=flat-square&logo=chakra-ui&logoColor=ffffff&style=flat-square)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&style=flat-square)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff&style=flat-square)
-
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=ffffff&style=flat-square)

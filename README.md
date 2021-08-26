@@ -33,6 +33,7 @@ I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to mak
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff&style=flat-square)
 ![Apple](https://img.shields.io/badge/Apple-black?style=flat-square&logo=apple&logoColor=white&style=flat-square)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff&style=flat-square)
+![C++](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=ffffff&style=flat-square)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&style=flat-square)
@@ -50,6 +51,7 @@ I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to mak
 ![Chakra-UI](https://img.shields.io/badge/-Chakra%E2%80%93UI-319795?style=flat-square&logo=chakra-ui&logoColor=ffffff&style=flat-square)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&style=flat-square)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff&style=flat-square)
+
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=ffffff&style=flat-square)

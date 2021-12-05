@@ -9,14 +9,38 @@
 
 I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to make that solution efficient.
 
-:mailbox: Reach me out!
+<!-- :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/bhupendra-gehlot-009382168/) 
 [![Mail Badge](https://img.shields.io/badge/Instagram-c0392b)](https://www.instagram.com/bunty__gehlot/)
 [![Mail Badge](https://img.shields.io/badge/Email-red)](mailto:bhupendragehlot88@gmail.com) 
 [![Mail Badge](https://img.shields.io/badge/Artstation-informational)](https://www.artstation.com/buntydgeneration) 
-[![Mail Badge](https://img.shields.io/badge/Youtube-c0392b)](https://www.youtube.com/channel/UCAN0USEiQENz5QR36N2qBig) 
+[![Mail Badge](https://img.shields.io/badge/Youtube-c0392b)](https://www.youtube.com/channel/UCAN0USEiQENz5QR36N2qBig)  -->
 
+### Available 👇
+<p>
+  <a href="https://www.linkedin.com/in/sumanjay/">
+    <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/cyberboysj">
+    <img align="left" alt="Sumanjay Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+  </a>
+  <a href="https://www.youtube.com/c/cyberboysumanjay">
+    <img align="left" alt="Sumanjay YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  </a>
+  <a href="https://instagram.com/sumanjay_">
+    <img align="left" alt="Sumanjay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+   <a href="https://www.quora.com/profile/Sumanjay">
+  <img align="left" alt="Sumanjay Quora" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/quora.svg" />
+  </a>
+  <a href="https://abowt.tk/sumanjay">
+    <img align="left" alt="Sumanjay Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
+  </a>
+  <a href="https://telegram.dog/cyberboysumanjay">
+    <img align="left" alt="Sumanjay Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+<br>
 
 - 🔭 I’m currently pursuing my Degree.
 - :computer: Most used line of code `git commit -m "Initial Commit"`

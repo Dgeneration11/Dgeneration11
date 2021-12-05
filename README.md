@@ -9,17 +9,17 @@
 
 I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to make that solution efficient.
 
-<!-- :mailbox: Reach me out!
+:mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/bhupendra-gehlot-009382168/) 
 [![Mail Badge](https://img.shields.io/badge/Instagram-c0392b)](https://www.instagram.com/bunty__gehlot/)
 [![Mail Badge](https://img.shields.io/badge/Email-red)](mailto:bhupendragehlot88@gmail.com) 
 [![Mail Badge](https://img.shields.io/badge/Artstation-informational)](https://www.artstation.com/buntydgeneration) 
-[![Mail Badge](https://img.shields.io/badge/Youtube-c0392b)](https://www.youtube.com/channel/UCAN0USEiQENz5QR36N2qBig)  -->
+[![Mail Badge](https://img.shields.io/badge/Youtube-c0392b)](https://www.youtube.com/channel/UCAN0USEiQENz5QR36N2qBig) 
 
-### Available 👇
+<!-- ### Available 👇
 <p>
-  <a href="https://www.linkedin.com/in/sumanjay/">
+  <a href="https://www.linkedin.com/in/bhupendra-gehlot-009382168/">
     <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/cyberboysj">
@@ -40,7 +40,7 @@ I'm Bhupendra a Computer Science Undergrad. I spend most of time thinking to mak
   <a href="https://telegram.dog/cyberboysumanjay">
     <img align="left" alt="Sumanjay Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
-<br>
+<br> -->
 
 - 🔭 I’m currently pursuing my Degree.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
